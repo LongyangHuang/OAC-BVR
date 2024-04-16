@@ -16,4 +16,13 @@ For training OAC-BVR on `Envname` (e.g. `walker2d-medium-v2`), run:
 python main.py --env walker2d-medium-v2
 ```
 
+## Bibtex
+@article{
+  title={Offline Reinforcement Learning With Behavior
+Value Regularization},
+  author={Huang, Longyang, Dong, Botao, Xie, wei and Zhang, Weidong},
+  journal={IEEE Transactions on Cybernetics},
+  year={2024},
+  publisher={IEEE}
+}
 
