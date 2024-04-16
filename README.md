@@ -18,8 +18,7 @@ python main.py --env walker2d-medium-v2
 
 ## Bibtex
 @article{
-  title={Offline Reinforcement Learning With Behavior
-Value Regularization},
+  title={Offline reinforcement learning with behavior value regularization},
   author={Huang, Longyang, Dong, Botao, Xie, wei and Zhang, Weidong},
   journal={IEEE Transactions on Cybernetics},
   year={2024},
